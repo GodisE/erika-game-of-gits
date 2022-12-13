@@ -1,0 +1,4 @@
+Okay, so I finally got your sad-tale.md to show on my vscode so now I can write a little short story. 
+There once was a girl named penny
+Penny walked by a well and a little boy walked by, Penny told him it was a wishing well, so the boy made a wish and then left, this happens a few more times each with a different person, then finally Penny makes it home that evening and walks through the front door and her Mother asks, "Penny you are soaking wet, did you fall in a puddle?" Penny just says "No Ma, I was hanging out at the wishing well again and told everyone who passed it was a wishing well and they all through me in to make their wish."
+Penny stopped hanging out at the wishing well.
